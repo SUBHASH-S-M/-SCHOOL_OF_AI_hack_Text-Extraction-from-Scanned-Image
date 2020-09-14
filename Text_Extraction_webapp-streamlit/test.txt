@@ -1,0 +1,41 @@
+Heat and Thermodynamics ~ 87,
+more thermal resistance. Air space is an insulation layer and it does not permit the heat
+1o flow from inside to outside. By providing double door windows. heat transfer may be
+reduced.
+
+2.5 THERMODYNAMICS
+
+Thermodynamics is a branch of science that deals with heat transfer, conversion of
+heat encrgy into mechanical or other forms of energy. Conversion of other forms of energy
+into heat also comes under the preview of thermodynamics. The scientists Carnot, Mayor.
+Clausius, Joule, Kelvin, Maxwell, Planck, and Gibbs developed the main parts of thermo-
+dynamics. The study of thermodynamics is very important in the field of internal combus-
+tion engines, air conditioning and refrigeration machineries.
+
+2.5.1 THERMODYNAMIC SYSTEMS
+
+A thermodynamic system is defined as a quantity of matter at a certain temperature
+with certain thermal properties (working substance). The system is separated from the
+surroundings by a system boundary. The state of system can be changed by changing the
+thermodynamical coordinates.
+
+If the boundary of system permits heat and work energies to cross the boundary but it
+is impervious to the flow of matter, then the system is called a closed system.
+
+If the boundary of the system permits not only energies like work and heat but also
+matter across the boundary of the system, it is said to be an open system.
+
+But in an isolated system, any form of energy or matter cannot cross the boundary of
+the system. Thus this system is independent of the environmental changes.
+
+It should be noted that in a thermally insulated system from its surroundings. it
+becomes an adiabatic system. It can exchange work with the surrounding. This system
+may be either open or closed.
+
+2.5.2 THERMODYNAMIC COORDINATES
+
+A thermodynamic system can be described in terms of quantities such as pressure,
+volume, temperature and entropy. These quantities are known as thermodynamic coordi-
+nates. The thermodynamical state of a system can be defined with the help of thermody-
+
+namical coordinates.
